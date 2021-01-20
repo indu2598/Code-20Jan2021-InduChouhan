@@ -1,0 +1,5 @@
+- Read Json Data
+- Calculate BMI for Each Entry
+- Calculate BMI Category and Health Risk
+- Add them in same row of json data with new colums
+- Count Overwieghts
